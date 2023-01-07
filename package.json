@@ -1,0 +1,14 @@
+{
+  "name": "sqwk-generator-electron",
+  "version": "1.0.0",
+  "description": "Generates a squawk code used in Flight Simulation. No real-world use. Flight simulation use only.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Jason Heller",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}

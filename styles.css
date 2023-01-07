@@ -1,0 +1,74 @@
+body{
+    background-color: whitesmoke;
+}
+p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+#sqwk{
+    font-size: 32px;
+    position: relative;
+    top: 180px;
+}
+
+#t1{
+    font-size: 18px;
+    position: relative;
+    top: 200px;
+}
+
+#gs{
+    font-size: 16px;
+    position: relative;
+    top: 240px;
+}
+
+#gsb{
+    background: linear-gradient(to right,#285d9e ,#7b2ab4);
+    background-color: #285d9e;
+    color: #fff;
+    font-family: Trebuchet MS;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    padding: 14px 15px;
+    border: 0px solid #000;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 280px;
+}
+
+#gsb:hover{
+    background: linear-gradient(to right,#5978aa ,#8e5abd);
+    background-color: #5978aa;
+}
+
+#gsb:active{
+ transform: scale(0.95);
+}
+
+#quitb{
+    background: linear-gradient(to right,#b94a4a ,#dd5990);
+    background-color: #285d9e;
+    color: #fff;
+    font-family: Trebuchet MS;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 0px solid #000;
+    border-radius: 8px;
+    display: inline-block;
+}
+
+#quitb:hover{
+    background: linear-gradient(to right,#bb6666 ,#db7fa6);
+    background-color: #5978aa;
+}
+
+#quitb:active{
+ transform: scale(0.95);
+}
